@@ -1,5 +1,5 @@
 # ToDoList
 Inicio dos estudo mobile
 
-#Tecnologias
+# Tecnologias
 React Native
